@@ -1,0 +1,17 @@
+12
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+O O O O O O O O O O O O 
+ O O O O O O O O O O O 
+ O O O O O O O O O O O 
+1
+2
+3
+1 0 0 0 0 0 0 0 0 0 
